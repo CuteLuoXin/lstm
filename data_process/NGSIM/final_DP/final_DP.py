@@ -194,8 +194,8 @@ class featureExtract():
                 X[i, ii, 42] = int(frame_t.Left_Label)
                 X[i, ii, 43] = int(frame_t.Right_Label)
 
-                # 3s trajectory
-                if ii == 29:
+                # 3s history trajectory intention index, 80 - 30 = 50
+                if ii == 49:
                     y[i] = int(frame_t.Lane_Change_Label)
 
         return X, y
