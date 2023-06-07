@@ -1,7 +1,7 @@
 # MTF-LSTM
 
 ## 介绍
-论文"基于混合示教长短时记忆网络的车辆轨迹预测"中数据处理及MTF-LSTM模型实现代码，论文链接：[混合示教长短时记忆网络的车辆轨迹预测研究](https://elib.ustb.edu.cn/https/77726476706e69737468656265737421fbf952d2243e635930068cb8/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD67TGVG_tjaCaFywQgu2z0FSolVa0GGkYAhYoavHnF52-qz6d01NwrnY&uniplatform=NZKPT)模型在Pytorch框架下实现。
+论文"混合示教长短时记忆网络的车辆轨迹预测研究"中数据处理及MTF-LSTM模型实现代码，论文链接：[混合示教长短时记忆网络的车辆轨迹预测研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD67TGVG_tjaCaFywQgu2z0FSolVa0GGkYAgvsRX3X5A_CuKnYfKpy9Sw&uniplatform=NZKPT)模型在Pytorch框架下实现。
 
 ## 依赖包
 numpy                         1.23.4
