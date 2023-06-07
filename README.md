@@ -51,6 +51,9 @@ MTF-LSTM-SP模型训练，运行代码"MTF-LSTM-SP.py"
 MTF-LSTM模型：运行"MTF-LSTM-test.py"
 MTF-LSTM-SP模型：运行"MTF-LSTM-SP-test.py"
 
+## 论文引用
+方华珍,刘立,肖小凤,顾青,孟宇.混合示教长短时记忆网络的车辆轨迹预测研究[J/OL].交通运输系统工程与信息:1-12[2023-06-07].http://kns.cnki.net/kcms/detail/11.4520.U.20230530.1114.002.html
+
 ## 后记
 
 有任何代码问题，在Issues提问或者直接联系：fhz_colin@xs.ustb.edu.cn
